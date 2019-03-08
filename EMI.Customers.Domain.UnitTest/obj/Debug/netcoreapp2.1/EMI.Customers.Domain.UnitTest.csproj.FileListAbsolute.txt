@@ -1,0 +1,17 @@
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\bin\Debug\netcoreapp2.1\EMI.Customers.Domain.UnitTest.deps.json
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\bin\Debug\netcoreapp2.1\EMI.Customers.Domain.UnitTest.runtimeconfig.json
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\bin\Debug\netcoreapp2.1\EMI.Customers.Domain.UnitTest.runtimeconfig.dev.json
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\bin\Debug\netcoreapp2.1\EMI.Customers.Domain.UnitTest.dll
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\bin\Debug\netcoreapp2.1\EMI.Customers.Domain.UnitTest.pdb
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\bin\Debug\netcoreapp2.1\EMI.Customers.Domain.dll
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\bin\Debug\netcoreapp2.1\EMI.Customers.Domain.pdb
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\obj\Debug\netcoreapp2.1\EMI.Customers.Domain.UnitTest.csprojAssemblyReference.cache
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\obj\Debug\netcoreapp2.1\EMI.Customers.Domain.UnitTest.csproj.CoreCompileInputs.cache
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\obj\Debug\netcoreapp2.1\EMI.Customers.Domain.UnitTest.AssemblyInfoInputs.cache
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\obj\Debug\netcoreapp2.1\EMI.Customers.Domain.UnitTest.AssemblyInfo.cs
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\obj\Debug\netcoreapp2.1\EMI.Customers.Domain.UnitTest.csproj.CopyComplete
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\obj\Debug\netcoreapp2.1\EMI.Customers.Domain.UnitTest.dll
+C:\Project\EMI.Customers.API\EMI.Customers.Domain.UnitTest\obj\Debug\netcoreapp2.1\EMI.Customers.Domain.UnitTest.pdb
